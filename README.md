@@ -5,6 +5,6 @@
 - 📫 How to reach me ...Pelo meu whatsapp: 83982051838
 
 <!---
-GustavoMvp/GustavoMvp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Gustavo Nobrega/Gustavo Nobrega is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
