@@ -1,7 +1,7 @@
 ## Oi eu sou o Gustavo Nóbrega sou desenvolvedor FullStack.
 
 
-![Anurag´s GitHub stats](https://github-readme-stats.vercel.app/apigustavoMvp=anuraghazra&show_icons=true&theme=dracula)
+![Anurag´s GitHub stats](https://github-readme-stats.vercel.app/api?gustavoMvp=anuraghazra&show_icons=true&theme=dracula)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gustavo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
