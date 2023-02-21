@@ -3,7 +3,7 @@
 ## Dev Fullstack and Ux Designer
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavoMvp&show_icons=true&theme=radical)
 
-#### Tecnologias utilizadas
+#### Minhas Stacks
 <div style="display: inline_block"><br>
   <img align="center" alt="Gustavo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gustavo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
